@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CityMotorcycle.unity
+    guid: c71887d34550d1346816b7891b88ec10
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: fcef5590a8607bd409a6602b2bf4ab9c
   m_configObjects: {}
